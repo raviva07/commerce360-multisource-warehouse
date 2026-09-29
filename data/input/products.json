@@ -1,0 +1,6 @@
+[
+  {"product_id":"P01","product_name":"Laptop","category":"Electronics"},
+  {"product_id":"P02","product_name":"Monitor","category":"Electronics"},
+  {"product_id":"P03","product_name":"Phone","category":"Electronics"},
+  {"product_id":"P04","product_name":"Backpack","category":"Accessories"}
+]

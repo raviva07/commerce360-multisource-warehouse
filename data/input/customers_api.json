@@ -1,0 +1,7 @@
+[
+  {"customer_id":"C001","customer_name":"Asha","city":"Hyderabad","segment":"Retail","updated_at":"2026-07-01T00:00:00"},
+  {"customer_id":"C002","customer_name":"Rahul","city":"Vijayawada","segment":"Retail","updated_at":"2026-07-01T00:00:00"},
+  {"customer_id":"C002","customer_name":"Rahul","city":"Bengaluru","segment":"Premium","updated_at":"2026-08-04T00:00:00"},
+  {"customer_id":"C003","customer_name":"Meena","city":"Chennai","segment":"Premium","updated_at":"2026-07-01T00:00:00"},
+  {"customer_id":"C004","customer_name":"Arjun","city":"Bengaluru","segment":"Retail","updated_at":"2026-07-01T00:00:00"}
+]

@@ -1,0 +1,6 @@
+{
+  "orders_required": ["order_id","order_ts","updated_at","customer_id","product_id","quantity","unit_price","channel"],
+  "customer_required": ["customer_id","customer_name","city","segment","updated_at"],
+  "product_required": ["product_id","product_name","category"],
+  "allowed_channels": ["web","mobile","store"]
+}
